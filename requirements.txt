@@ -1,0 +1,10 @@
+# Python 3.14.0 (funciona com Python >= 3.10)
+numpy==2.5.2
+pandas==3.0.6
+scikit-learn==1.9.0
+scipy==1.18.1
+matplotlib==3.11.1
+seaborn==0.13.2
+jupyter_client==8.10.0
+ipykernel==7.3.0
+nbconvert==7.17.1

@@ -1,0 +1,7 @@
+﻿modelo A,modelo B,F1 médio A,F1 médio B,diferença média (B−A),folds B > A,p-valor,"significativo (α=0,05)"
+NB baseline,NB ajustado,0.9163,0.9169,0.0006,2,1.0,não
+AD baseline,AD ajustado,0.885,0.9109,0.0259,7,0.1445,não
+RF baseline,RF ajustado,0.9389,0.9486,0.0097,2,0.5,não
+NB ajustado,RF ajustado,0.9169,0.9486,0.0317,6,0.0312,sim
+AD ajustado,RF ajustado,0.9109,0.9486,0.0377,5,0.0938,não
+NB ajustado,AD ajustado,0.9169,0.9109,-0.006,3,0.5859,não
